@@ -1,1 +1,5 @@
 Changed!!
+clone
+fetch
+pull
+push
