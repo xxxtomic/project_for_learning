@@ -1,2 +1,6 @@
 hello there
+<<<<<<< HEAD
 nanjamo!
+=======
+Nanjamo
+>>>>>>> experimental
