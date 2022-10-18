@@ -1,5 +1,5 @@
 Changed!!
-clone
-fetch
-pull
-push
+clone: リポジトリからローカルへ
+fetch　リモートリポジトリの情報をローカルへ
+pull　　リモートからローカルへ
+push　　ローカルからリモートへ
